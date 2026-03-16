@@ -35,5 +35,7 @@ The dashboard tracks key business metrics such as revenue, profit, orders, and p
 ## Dataset
 Global Superstore dataset used for analysis.
 
+📊 [View Key Insights](Key_Insights.md)
+
 ## Dashboard Preview
 ![Dashboard Preview](images/dashboard-preview.png)
